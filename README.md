@@ -12,6 +12,9 @@ A ecomerce react redex web application.
 - [Website](#website)
 
 ## User Story
+AS a senior engineer working on an e-commerce platform
+I WANT my platform to use Redux to manage global state instead of the Context API
+SO THAT my website's state management is taken out of the React ecosystem
 
 ## Acceptance Criteria
 * As a user, I want to experience better performance across the features I use in the application:
